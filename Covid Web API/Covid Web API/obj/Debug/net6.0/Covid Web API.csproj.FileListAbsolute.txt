@@ -1,0 +1,38 @@
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\bin\Debug\net6.0\appsettings.json
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\bin\Debug\net6.0\Covid Web API.exe
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\bin\Debug\net6.0\Covid Web API.deps.json
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\bin\Debug\net6.0\Covid Web API.runtimeconfig.json
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\bin\Debug\net6.0\Covid Web API.dll
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\bin\Debug\net6.0\Covid Web API.pdb
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\Covid Web API.csproj.AssemblyReference.cache
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\Covid Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\Covid Web API.AssemblyInfoInputs.cache
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\Covid Web API.AssemblyInfo.cs
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\Covid Web API.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\Covid Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\Covid Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\staticwebassets\msbuild.Covid Web API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\staticwebassets\msbuild.build.Covid Web API.props
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Covid Web API.props
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Covid Web API.props
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\scopedcss\bundle\Covid Web API.styles.css
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\Covid Web API.csproj.CopyComplete
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\Covid Web API.dll
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\refint\Covid Web API.dll
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\Covid Web API.pdb
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\Covid Web API.genruntimeconfig.cache
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\ref\Covid Web API.dll
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\Covid_Web_API.Resource.resources
+C:\Users\Rajesh Kumar\source\repos\Covid Web API\Covid Web API\obj\Debug\net6.0\Covid Web API.csproj.GenerateResource.cache
